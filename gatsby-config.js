@@ -25,7 +25,7 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Brians Ostebiks',
+    title: 'CMK Infoskærm',
   },
   pathPrefix: '/gatsby-contentful-starter',
   plugins: [
